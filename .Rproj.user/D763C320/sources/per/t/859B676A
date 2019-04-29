@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556540693009.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3096898966",
+    "id" : "859B676A",
+    "lastKnownWriteTime" : 1556545010,
+    "last_content_update" : 1556545010141,
+    "path" : "~/Škola/R_projects/R_ML_classes_project/week10_support_vector_machines.R",
+    "project_path" : "week10_support_vector_machines.R",
+    "properties" : {
+        "cursorPosition" : "59,42",
+        "scrollLine" : "51"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

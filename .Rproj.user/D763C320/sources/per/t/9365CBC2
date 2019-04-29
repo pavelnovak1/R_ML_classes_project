@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556538671503.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9365CBC2",
+    "lastKnownWriteTime" : 1556538710,
+    "last_content_update" : 1556538710231,
+    "path" : "~/Škola/R_projects/R_ML_classes_project/week11_neural_networks.R",
+    "project_path" : "week11_neural_networks.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
